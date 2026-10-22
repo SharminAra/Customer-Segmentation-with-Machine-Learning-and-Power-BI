@@ -1,0 +1,6 @@
+Segment,Customers,Avg_Age,Avg_Income,Avg_Spending,Pct_Female,Share_pct,Strategy,Color
+Budget Conscious,23,45.2,26.3,20.9,60.9,11.5,"Discount days, coupons, value product lines",#d62728
+Careful Wealthy,35,41.1,88.2,17.1,45.7,17.5,"Highest untapped potential: quality/value messaging, personalised offers",#1f77b4
+Impulsive Buyers,22,25.3,25.7,79.4,59.1,11.0,"Flash sales, bundles, buy-now-pay-later",#ff7f0e
+Premium Spenders,39,32.7,86.5,82.1,53.8,19.5,"VIP loyalty programme, early access, premium brand partnerships",#2ca02c
+Standard Customers,81,42.7,55.3,49.5,59.3,40.5,"Seasonal campaigns, points programme to move them up a tier",#9467bd
